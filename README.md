@@ -1,8 +1,6 @@
-## Hi I'm Swashbuckle007
+# **Swashbuckle007**
 
-I am the first and only owner of Pie SMP (my brother says he was becuase he had Owner Bro rank meaning owner's brother)  
-I do some developing  
-I have made two servers (C12X and Pie SMP)
+I am a dev who made a minecraft server called Pie SMP (piesmp.ca) and I am the first and only owner of it (my brother says he was Owner Bro because that was his rank it is very confusing) anyways I rarely use this and really only do it for a few things. Anyways you’ll see my on Pie SMP with two igns (Swashbuckle007, BURRRRBARON)
 
 <!--
 **Swashbuckle007/Swashbuckle007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
